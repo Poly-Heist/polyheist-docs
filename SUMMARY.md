@@ -23,3 +23,11 @@
 * [Social Media](contact-us/social-media.md)
 * [Business Enquires](contact-us/business-enquires.md)
 
+## license agreement
+
+* [Untitled](license-agreement/untitled.md)
+
+---
+
+* [PolyHeist License](untitled.md)
+
