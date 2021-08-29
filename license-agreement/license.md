@@ -131,7 +131,7 @@ You may be subject to additional terms and conditions that apply when You use or
 
 If you have any questions about this Agreement, You can contact Us:
 
-{% page-ref page="contact-us/business-enquires.md" %}
+{% page-ref page="../contact-us/business-enquires.md" %}
 
 
 

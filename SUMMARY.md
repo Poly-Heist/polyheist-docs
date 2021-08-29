@@ -25,9 +25,5 @@
 
 ## license agreement
 
-* [Untitled](license-agreement/untitled.md)
-
----
-
-* [PolyHeist License](untitled.md)
+* [PolyHeist License](license-agreement/license.md)
 
