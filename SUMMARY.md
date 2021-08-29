@@ -14,6 +14,10 @@
   * [💌 Referrals](heist/referrals.md)
 * [👀 Coming Soon](coming-soon.md)
 
+## polygon network
+
+* [Connecting to Polygon](polygon-network/connecting-to-polygon.md)
+
 ## Contact Us
 
 * [Social Media](contact-us/social-media.md)
