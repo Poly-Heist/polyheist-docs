@@ -4,8 +4,6 @@
 
 ### Discord :  [discord.gg/dF2CCJZ7j8](https://t.co/IFXNlXTvT1?amp=1)
 
-
-
 ## Other
 
 ### DappRadar : [https://dappradar.com/polygon/gambling/polyheist](https://dappradar.com/polygon/gambling/polyheist)
