@@ -2,7 +2,7 @@
 
 ### GitHub
 
-You can find all of our smart contracts in our Heist GitHub repository: [https://github.com/Poly-Heist/polyheist-contracts/tree/main/Heist](https://github.com/Poly-Heist/polyheist-contracts/tree/main/Heist)O
+You can find all of our smart contracts in our Heist GitHub repository: [https://github.com/Poly-Heist/polyheist-contracts/tree/main/Heist](https://github.com/Poly-Heist/polyheist-contracts/tree/main/Heist)
 
 ### On-chain Contracts - Contract Source Code Verified ✅
 
