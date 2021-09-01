@@ -7,6 +7,7 @@
 ---
 
 * [🚨 Heist](heist/README.md)
+  * [📋Contracts](heist/contracts.md)
   * [🚀 Deposits & Rewards](heist/deposits.md)
   * [🎲 Random Drops](heist/random-drops.md)
   * [🎁 The Final Drop](heist/the-final-drop.md)
