@@ -7,7 +7,7 @@ With each deposit comes fees that will reduce your overall balance in the pot. T
 | Fee Type | Current Value \[%\] | Maximum Value \[%\] |
 | :--- | :---: | :---: |
 | Distribution | 15 | 30 |
-| Random Drop | 5 | 5 |
+| Random Drop | 5 | 10 |
 | Referral | 5 | 5 |
 | Dev | 5 | 10 |
 
