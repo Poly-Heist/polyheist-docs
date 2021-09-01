@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/twitter-banner.png)
+![polyheist.io](.gitbook/assets/twitter-banner.png)
 
 ### What is PolyHeist? 🤔
 
