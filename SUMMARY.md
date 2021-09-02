@@ -17,6 +17,7 @@
 
 ## polygon network
 
+* [Why Polygon?](polygon-network/why-polygon.md)
 * [Connecting to Polygon](polygon-network/connecting-to-polygon.md)
 
 ## Contact Us
